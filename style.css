@@ -1,8 +1,10 @@
-div{
+.blog{
     background-color: orchid;
     border-top:10px solid darkmagenta ;
     border-radius: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     text-align: center;
+    width: 800px;
+    height: 200px;
 }
