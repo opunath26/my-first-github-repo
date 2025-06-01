@@ -1,10 +1,20 @@
 .blog{
     background-color: orchid;
     border-top:10px solid darkmagenta ;
-    border-radius: 5px;
+    border-radius: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 10px;
     text-align: center;
     width: 800px;
     height: 200px;
+}
+
+.list {
+    background-color: plum;
+    border-top: 50px solid purple;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 800px;
+    height: 500px;
+    border-radius: 50px;
 }
