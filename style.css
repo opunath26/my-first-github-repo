@@ -1,0 +1,8 @@
+div{
+    background-color: orchid;
+    border-top:10px solid darkmagenta ;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5px;
+    text-align: center;
+}
